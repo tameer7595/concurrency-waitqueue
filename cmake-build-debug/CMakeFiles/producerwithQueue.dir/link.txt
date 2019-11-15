@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/producerwithQueue.dir/main.cpp.o CMakeFiles/producerwithQueue.dir/queue.cpp.o  -o producerwithQueue 

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tameer/CLionProjects/producerwithQueue/main.cpp
+iostream
+-
+cstdlib
+-
+pthread.h
+-
+syscall.h
+-
+queue.h
+/home/tameer/CLionProjects/producerwithQueue/queue.h
+unistd.h
+-
+
+/home/tameer/CLionProjects/producerwithQueue/queue.cpp
+queue.h
+/home/tameer/CLionProjects/producerwithQueue/queue.h
+
+/home/tameer/CLionProjects/producerwithQueue/queue.h
+iostream
+-
+queue
+-
+
